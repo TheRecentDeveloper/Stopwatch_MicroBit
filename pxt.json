@@ -1,5 +1,5 @@
 {
-    "name": "Štoperica",
+    "name": "Stopwatch_MicroBit",
     "description": "",
     "dependencies": {
         "core": "*",
